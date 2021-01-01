@@ -7,7 +7,7 @@
 ![](http://img.badgesize.io/Mobius1/Selectr/master/dist/selectr.min.js) ![](http://img.badgesize.io/Mobius1/Selectr/master/dist/selectr.min.js?compression=gzip&label=gzipped)
 
 
-# NO LONGER UNDER ACTIVE DEVELOPMENT. If you would like to take over development please contact me and I'll transfer ownership.
+# This is a customized version of fantastic Selectr plugin
 
 
 
